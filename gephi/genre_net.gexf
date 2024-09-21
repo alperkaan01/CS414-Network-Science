@@ -1,0 +1,444 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-06-12">
+    <creator>NetworkX 3.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="Degree" type="long" />
+      <attribute id="1" title="Strength" type="double" />
+    </attributes>
+    <nodes>
+      <node id="hip hop" label="hip hop">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="1.240324096239386" />
+        </attvalues>
+      </node>
+      <node id="rock" label="rock">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="0.0915469793772745" />
+        </attvalues>
+      </node>
+      <node id="other" label="other">
+        <attvalues>
+          <attvalue for="0" value="30" />
+          <attvalue for="1" value="1.5261916821674082" />
+        </attvalues>
+      </node>
+      <node id="pop" label="pop">
+        <attvalues>
+          <attvalue for="0" value="30" />
+          <attvalue for="1" value="1.498320347755763" />
+        </attvalues>
+      </node>
+      <node id="edm" label="edm">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="0.47643452082490906" />
+        </attvalues>
+      </node>
+      <node id="rap" label="rap">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="0.7728756530529717" />
+        </attvalues>
+      </node>
+      <node id="house" label="house">
+        <attvalues>
+          <attvalue for="0" value="27" />
+          <attvalue for="1" value="0.495075410432673" />
+        </attvalues>
+      </node>
+      <node id="r&amp;b" label="r&amp;b">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="0.2354516902547514" />
+        </attvalues>
+      </node>
+      <node id="indie" label="indie">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="0.11820521229276178" />
+        </attvalues>
+      </node>
+      <node id="dubstep" label="dubstep">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="0.040921083704003255" />
+        </attvalues>
+      </node>
+      <node id="electro" label="electro">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="0.03248937323089365" />
+        </attvalues>
+      </node>
+      <node id="reggaeton" label="reggaeton">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="0.17923465426607366" />
+        </attvalues>
+      </node>
+      <node id="jazz" label="jazz">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="0.0029305701577031947" />
+        </attvalues>
+      </node>
+      <node id="electronic" label="electronic">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="0.12910312575818847" />
+        </attvalues>
+      </node>
+      <node id="indie rock" label="indie rock">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="0.00857171047310958" />
+        </attvalues>
+      </node>
+      <node id="funk" label="funk">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="0.104436728669632" />
+        </attvalues>
+      </node>
+      <node id="techno" label="techno">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="0.011392280630812776" />
+        </attvalues>
+      </node>
+      <node id="country" label="country">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="0.02799133441164577" />
+        </attvalues>
+      </node>
+      <node id="dancehall" label="dancehall">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="0.06638621512333197" />
+        </attvalues>
+      </node>
+      <node id="deep house" label="deep house">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="0.0021018358269308535" />
+        </attvalues>
+      </node>
+      <node id="progressive electro house" label="progressive electro house">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="0.011322280630812778" />
+        </attvalues>
+      </node>
+      <node id="modern alternative rock" label="modern alternative rock">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="0.0008987343307723414" />
+        </attvalues>
+      </node>
+      <node id="reggae" label="reggae">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="0.03933361504245858" />
+        </attvalues>
+      </node>
+      <node id="k-pop" label="k-pop">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="0.036058677719369193" />
+        </attvalues>
+      </node>
+      <node id="hard rock" label="hard rock">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3.0000000000000004e-05" />
+        </attvalues>
+      </node>
+      <node id="alternative rock" label="alternative rock">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="0.015395952284674481" />
+        </attvalues>
+      </node>
+      <node id="urbano latino" label="urbano latino">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="0.0008387343307723413" />
+        </attvalues>
+      </node>
+      <node id="trap" label="trap">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="0.001273101496158512" />
+        </attvalues>
+      </node>
+      <node id="blues" label="blues">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="0.0008787343307723414" />
+        </attvalues>
+      </node>
+      <node id="soft rock" label="soft rock">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="0.0016174686615446825" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="hip hop" target="rock" id="0" weight="1e-05" />
+      <edge source="hip hop" target="edm" id="1" weight="1e-05" />
+      <edge source="hip hop" target="rap" id="2" weight="0.3704003234937323" />
+      <edge source="hip hop" target="other" id="3" weight="0.3513950667205823" />
+      <edge source="hip hop" target="hip hop" id="4" weight="0.3404771532551557" />
+      <edge source="hip hop" target="pop" id="5" weight="1e-05" />
+      <edge source="hip hop" target="r&amp;b" id="6" weight="0.08249090173877881" />
+      <edge source="hip hop" target="electronic" id="7" weight="0.010109179134654266" />
+      <edge source="hip hop" target="dancehall" id="8" weight="0.015770319450060657" />
+      <edge source="hip hop" target="deep house" id="9" weight="1e-05" />
+      <edge source="hip hop" target="indie" id="10" weight="0.014961585119288313" />
+      <edge source="hip hop" target="electro" id="11" weight="1e-05" />
+      <edge source="hip hop" target="reggaeton" id="12" weight="1e-05" />
+      <edge source="hip hop" target="house" id="13" weight="0.026283865750101092" />
+      <edge source="hip hop" target="modern alternative rock" id="14" weight="1e-05" />
+      <edge source="hip hop" target="reggae" id="15" weight="1e-05" />
+      <edge source="hip hop" target="funk" id="16" weight="0.02547513141932875" />
+      <edge source="hip hop" target="hard rock" id="17" weight="1e-05" />
+      <edge source="hip hop" target="k-pop" id="18" weight="1e-05" />
+      <edge source="hip hop" target="blues" id="19" weight="1e-05" />
+      <edge source="hip hop" target="trap" id="20" weight="0.001213101496158512" />
+      <edge source="hip hop" target="techno" id="21" weight="0.0004043671653861706" />
+      <edge source="hip hop" target="dubstep" id="22" weight="0.001213101496158512" />
+      <edge source="hip hop" target="indie rock" id="23" weight="1e-05" />
+      <edge source="hip hop" target="country" id="24" weight="1e-05" />
+      <edge source="rock" target="pop" id="25" weight="1e-05" />
+      <edge source="rock" target="other" id="26" weight="0.058228871815608575" />
+      <edge source="rock" target="house" id="27" weight="0.01293974929235746" />
+      <edge source="rock" target="dancehall" id="28" weight="0.0004043671653861706" />
+      <edge source="rock" target="rock" id="29" weight="0.00606550748079256" />
+      <edge source="rock" target="indie" id="30" weight="1e-05" />
+      <edge source="rock" target="edm" id="31" weight="1e-05" />
+      <edge source="rock" target="dubstep" id="32" weight="1e-05" />
+      <edge source="rock" target="rap" id="33" weight="0.010109179134654266" />
+      <edge source="rock" target="funk" id="34" weight="1e-05" />
+      <edge source="rock" target="alternative rock" id="35" weight="1e-05" />
+      <edge source="rock" target="electronic" id="36" weight="1e-05" />
+      <edge source="rock" target="jazz" id="37" weight="1e-05" />
+      <edge source="rock" target="blues" id="38" weight="1e-05" />
+      <edge source="rock" target="modern alternative rock" id="39" weight="1e-05" />
+      <edge source="rock" target="electro" id="40" weight="1e-05" />
+      <edge source="rock" target="country" id="41" weight="0.0008087343307723412" />
+      <edge source="rock" target="reggae" id="42" weight="1e-05" />
+      <edge source="rock" target="r&amp;b" id="43" weight="0.0020218358269308533" />
+      <edge source="rock" target="reggaeton" id="44" weight="1e-05" />
+      <edge source="rock" target="trap" id="45" weight="1e-05" />
+      <edge source="rock" target="deep house" id="46" weight="0.0004043671653861706" />
+      <edge source="rock" target="indie rock" id="47" weight="0.0004043671653861706" />
+      <edge source="rock" target="hard rock" id="48" weight="1e-05" />
+      <edge source="other" target="pop" id="49" weight="0.6004852405984634" />
+      <edge source="other" target="rap" id="50" weight="1e-05" />
+      <edge source="other" target="edm" id="51" weight="1e-05" />
+      <edge source="other" target="indie" id="52" weight="0.04205418520016175" />
+      <edge source="other" target="electro" id="53" weight="1e-05" />
+      <edge source="other" target="house" id="54" weight="1e-05" />
+      <edge source="other" target="other" id="55" weight="0.22199757379700769" />
+      <edge source="other" target="r&amp;b" id="56" weight="0.05337646583097452" />
+      <edge source="other" target="techno" id="57" weight="1e-05" />
+      <edge source="other" target="electronic" id="58" weight="0.04448038819247877" />
+      <edge source="other" target="country" id="59" weight="0.008491710473109584" />
+      <edge source="other" target="funk" id="60" weight="0.05216336433481601" />
+      <edge source="other" target="reggaeton" id="61" weight="0.05014152850788516" />
+      <edge source="other" target="dancehall" id="62" weight="1e-05" />
+      <edge source="other" target="k-pop" id="63" weight="0.009704811969268095" />
+      <edge source="other" target="reggae" id="64" weight="0.01253538212697129" />
+      <edge source="other" target="jazz" id="65" weight="1e-05" />
+      <edge source="other" target="alternative rock" id="66" weight="0.008896077638495753" />
+      <edge source="other" target="dubstep" id="67" weight="0.0040436716538617065" />
+      <edge source="other" target="indie rock" id="68" weight="0.00606550748079256" />
+      <edge source="other" target="urbano latino" id="69" weight="0.0008087343307723412" />
+      <edge source="other" target="blues" id="70" weight="0.0008087343307723412" />
+      <edge source="other" target="deep house" id="71" weight="1e-05" />
+      <edge source="other" target="trap" id="72" weight="1e-05" />
+      <edge source="other" target="modern alternative rock" id="73" weight="1e-05" />
+      <edge source="other" target="hard rock" id="74" weight="1e-05" />
+      <edge source="other" target="soft rock" id="75" weight="0.0004043671653861706" />
+      <edge source="pop" target="pop" id="76" weight="0.2951880307319046" />
+      <edge source="pop" target="jazz" id="77" weight="1e-05" />
+      <edge source="pop" target="house" id="78" weight="0.20420541852001617" />
+      <edge source="pop" target="edm" id="79" weight="0.1443590780428629" />
+      <edge source="pop" target="country" id="80" weight="0.011322280630812778" />
+      <edge source="pop" target="r&amp;b" id="81" weight="1e-05" />
+      <edge source="pop" target="electronic" id="82" weight="0.0343712090578245" />
+      <edge source="pop" target="rap" id="83" weight="0.11200970481196927" />
+      <edge source="pop" target="electro" id="84" weight="1e-05" />
+      <edge source="pop" target="k-pop" id="85" weight="0.011322280630812778" />
+      <edge source="pop" target="dancehall" id="86" weight="0.022644561261625555" />
+      <edge source="pop" target="indie" id="87" weight="1e-05" />
+      <edge source="pop" target="reggaeton" id="88" weight="0.04003234937323089" />
+      <edge source="pop" target="dubstep" id="89" weight="0.009300444803881924" />
+      <edge source="pop" target="techno" id="90" weight="0.00606550748079256" />
+      <edge source="pop" target="funk" id="91" weight="1e-05" />
+      <edge source="pop" target="deep house" id="92" weight="1e-05" />
+      <edge source="pop" target="progressive electro house" id="93" weight="0.003234937323089365" />
+      <edge source="pop" target="indie rock" id="94" weight="1e-05" />
+      <edge source="pop" target="reggae" id="95" weight="1e-05" />
+      <edge source="pop" target="blues" id="96" weight="1e-05" />
+      <edge source="pop" target="modern alternative rock" id="97" weight="1e-05" />
+      <edge source="pop" target="alternative rock" id="98" weight="0.002426202992317024" />
+      <edge source="pop" target="soft rock" id="99" weight="0.001213101496158512" />
+      <edge source="pop" target="urbano latino" id="100" weight="1e-05" />
+      <edge source="pop" target="trap" id="101" weight="1e-05" />
+      <edge source="edm" target="dubstep" id="102" weight="0.016983420946219168" />
+      <edge source="edm" target="indie rock" id="103" weight="1e-05" />
+      <edge source="edm" target="house" id="104" weight="0.13424989890820865" />
+      <edge source="edm" target="edm" id="105" weight="0.06429437929640114" />
+      <edge source="edm" target="electronic" id="106" weight="0.02466639708855641" />
+      <edge source="edm" target="modern alternative rock" id="107" weight="1e-05" />
+      <edge source="edm" target="indie" id="108" weight="0.016579053780832995" />
+      <edge source="edm" target="electro" id="109" weight="0.013748483623129802" />
+      <edge source="edm" target="rap" id="110" weight="0.028305701577031946" />
+      <edge source="edm" target="k-pop" id="111" weight="0.003639304488475536" />
+      <edge source="edm" target="country" id="112" weight="1e-05" />
+      <edge source="edm" target="r&amp;b" id="113" weight="0.009704811969268095" />
+      <edge source="edm" target="deep house" id="114" weight="1e-05" />
+      <edge source="edm" target="funk" id="115" weight="0.005256773150020219" />
+      <edge source="edm" target="progressive electro house" id="116" weight="0.004448038819247877" />
+      <edge source="edm" target="dancehall" id="117" weight="1e-05" />
+      <edge source="edm" target="reggaeton" id="118" weight="0.0040436716538617065" />
+      <edge source="edm" target="jazz" id="119" weight="0.0008087343307723412" />
+      <edge source="edm" target="techno" id="120" weight="0.0040436716538617065" />
+      <edge source="edm" target="blues" id="121" weight="1e-05" />
+      <edge source="edm" target="alternative rock" id="122" weight="0.001213101496158512" />
+      <edge source="rap" target="funk" id="123" weight="1e-05" />
+      <edge source="rap" target="reggaeton" id="124" weight="1e-05" />
+      <edge source="rap" target="r&amp;b" id="125" weight="0.044884755357864944" />
+      <edge source="rap" target="rap" id="126" weight="0.17226041245450868" />
+      <edge source="rap" target="dancehall" id="127" weight="0.009704811969268095" />
+      <edge source="rap" target="house" id="128" weight="1e-05" />
+      <edge source="rap" target="indie" id="129" weight="0.011322280630812778" />
+      <edge source="rap" target="electronic" id="130" weight="1e-05" />
+      <edge source="rap" target="reggae" id="131" weight="1e-05" />
+      <edge source="rap" target="k-pop" id="132" weight="0.006874241811564901" />
+      <edge source="rap" target="trap" id="133" weight="1e-05" />
+      <edge source="rap" target="jazz" id="134" weight="1e-05" />
+      <edge source="rap" target="techno" id="135" weight="0.0004043671653861706" />
+      <edge source="rap" target="electro" id="136" weight="0.00606550748079256" />
+      <edge source="rap" target="dubstep" id="137" weight="1e-05" />
+      <edge source="rap" target="deep house" id="138" weight="1e-05" />
+      <edge source="rap" target="indie rock" id="139" weight="0.0004043671653861706" />
+      <edge source="rap" target="country" id="140" weight="1e-05" />
+      <edge source="rap" target="blues" id="141" weight="1e-05" />
+      <edge source="rap" target="modern alternative rock" id="142" weight="1e-05" />
+      <edge source="house" target="house" id="143" weight="0.07966033158107562" />
+      <edge source="house" target="r&amp;b" id="144" weight="0.010109179134654266" />
+      <edge source="house" target="electro" id="145" weight="1e-05" />
+      <edge source="house" target="electronic" id="146" weight="1e-05" />
+      <edge source="house" target="progressive electro house" id="147" weight="0.0028305701577031944" />
+      <edge source="house" target="reggaeton" id="148" weight="1e-05" />
+      <edge source="house" target="indie" id="149" weight="0.014152850788515973" />
+      <edge source="house" target="dancehall" id="150" weight="0.003639304488475536" />
+      <edge source="house" target="techno" id="151" weight="1e-05" />
+      <edge source="house" target="funk" id="152" weight="1e-05" />
+      <edge source="house" target="country" id="153" weight="1e-05" />
+      <edge source="house" target="k-pop" id="154" weight="0.0028305701577031944" />
+      <edge source="house" target="modern alternative rock" id="155" weight="1e-05" />
+      <edge source="house" target="deep house" id="156" weight="1e-05" />
+      <edge source="house" target="dubstep" id="157" weight="1e-05" />
+      <edge source="house" target="urbano latino" id="158" weight="1e-05" />
+      <edge source="house" target="indie rock" id="159" weight="0.0016174686615446825" />
+      <edge source="house" target="reggae" id="160" weight="1e-05" />
+      <edge source="house" target="alternative rock" id="161" weight="0.001213101496158512" />
+      <edge source="house" target="jazz" id="162" weight="0.001213101496158512" />
+      <edge source="r&amp;b" target="r&amp;b" id="163" weight="0.016579053780832995" />
+      <edge source="r&amp;b" target="funk" id="164" weight="0.007278608976951072" />
+      <edge source="r&amp;b" target="dancehall" id="165" weight="0.003639304488475536" />
+      <edge source="r&amp;b" target="indie" id="166" weight="0.005256773150020219" />
+      <edge source="r&amp;b" target="jazz" id="167" weight="1e-05" />
+      <edge source="r&amp;b" target="k-pop" id="168" weight="1e-05" />
+      <edge source="r&amp;b" target="reggaeton" id="169" weight="1e-05" />
+      <edge source="r&amp;b" target="electronic" id="170" weight="1e-05" />
+      <edge source="r&amp;b" target="trap" id="171" weight="1e-05" />
+      <edge source="r&amp;b" target="reggae" id="172" weight="1e-05" />
+      <edge source="r&amp;b" target="electro" id="173" weight="1e-05" />
+      <edge source="r&amp;b" target="modern alternative rock" id="174" weight="1e-05" />
+      <edge source="r&amp;b" target="indie rock" id="175" weight="1e-05" />
+      <edge source="r&amp;b" target="blues" id="176" weight="1e-05" />
+      <edge source="indie" target="electronic" id="177" weight="0.004852405984634048" />
+      <edge source="indie" target="electro" id="178" weight="1e-05" />
+      <edge source="indie" target="indie" id="179" weight="0.008491710473109584" />
+      <edge source="indie" target="k-pop" id="180" weight="1e-05" />
+      <edge source="indie" target="funk" id="181" weight="1e-05" />
+      <edge source="indie" target="dubstep" id="182" weight="1e-05" />
+      <edge source="indie" target="deep house" id="183" weight="1e-05" />
+      <edge source="indie" target="modern alternative rock" id="184" weight="1e-05" />
+      <edge source="indie" target="reggae" id="185" weight="1e-05" />
+      <edge source="indie" target="alternative rock" id="186" weight="1e-05" />
+      <edge source="indie" target="country" id="187" weight="1e-05" />
+      <edge source="indie" target="indie rock" id="188" weight="1e-05" />
+      <edge source="indie" target="dancehall" id="189" weight="1e-05" />
+      <edge source="indie" target="reggaeton" id="190" weight="0.0004043671653861706" />
+      <edge source="dubstep" target="dubstep" id="191" weight="0.004852405984634048" />
+      <edge source="dubstep" target="electro" id="192" weight="1e-05" />
+      <edge source="dubstep" target="electronic" id="193" weight="0.004448038819247877" />
+      <edge source="dubstep" target="reggaeton" id="194" weight="1e-05" />
+      <edge source="dubstep" target="techno" id="195" weight="1e-05" />
+      <edge source="dubstep" target="k-pop" id="196" weight="1e-05" />
+      <edge source="electro" target="electronic" id="197" weight="0.005256773150020219" />
+      <edge source="electro" target="reggaeton" id="198" weight="1e-05" />
+      <edge source="electro" target="alternative rock" id="199" weight="0.0016174686615446825" />
+      <edge source="electro" target="electro" id="200" weight="0.003234937323089365" />
+      <edge source="electro" target="reggae" id="201" weight="1e-05" />
+      <edge source="electro" target="funk" id="202" weight="1e-05" />
+      <edge source="electro" target="jazz" id="203" weight="0.0008087343307723412" />
+      <edge source="electro" target="k-pop" id="204" weight="0.0008087343307723412" />
+      <edge source="electro" target="dancehall" id="205" weight="1e-05" />
+      <edge source="electro" target="techno" id="206" weight="1e-05" />
+      <edge source="electro" target="country" id="207" weight="0.0008087343307723412" />
+      <edge source="electro" target="blues" id="208" weight="1e-05" />
+      <edge source="reggaeton" target="reggaeton" id="209" weight="0.06308127780024263" />
+      <edge source="reggaeton" target="reggae" id="210" weight="0.021431459765467044" />
+      <edge source="reggaeton" target="funk" id="211" weight="1e-05" />
+      <edge source="reggaeton" target="urbano latino" id="212" weight="1e-05" />
+      <edge source="reggaeton" target="dancehall" id="213" weight="1e-05" />
+      <edge source="jazz" target="funk" id="214" weight="1e-05" />
+      <edge source="jazz" target="reggae" id="215" weight="1e-05" />
+      <edge source="jazz" target="jazz" id="216" weight="1e-05" />
+      <edge source="jazz" target="country" id="217" weight="1e-05" />
+      <edge source="jazz" target="k-pop" id="218" weight="1e-05" />
+      <edge source="electronic" target="indie rock" id="219" weight="1e-05" />
+      <edge source="electronic" target="progressive electro house" id="220" weight="0.0004043671653861706" />
+      <edge source="electronic" target="dancehall" id="221" weight="1e-05" />
+      <edge source="electronic" target="deep house" id="222" weight="0.0004043671653861706" />
+      <edge source="electronic" target="electronic" id="223" weight="1e-05" />
+      <edge source="electronic" target="country" id="224" weight="1e-05" />
+      <edge source="electronic" target="reggae" id="225" weight="1e-05" />
+      <edge source="electronic" target="techno" id="226" weight="1e-05" />
+      <edge source="electronic" target="trap" id="227" weight="1e-05" />
+      <edge source="indie rock" target="k-pop" id="228" weight="1e-05" />
+      <edge source="indie rock" target="indie rock" id="229" weight="1e-05" />
+      <edge source="funk" target="reggae" id="230" weight="0.001213101496158512" />
+      <edge source="funk" target="deep house" id="231" weight="0.0008087343307723412" />
+      <edge source="funk" target="funk" id="232" weight="0.010513546300040437" />
+      <edge source="funk" target="dancehall" id="233" weight="0.0016174686615446825" />
+      <edge source="funk" target="country" id="234" weight="1e-05" />
+      <edge source="funk" target="k-pop" id="235" weight="1e-05" />
+      <edge source="funk" target="techno" id="236" weight="1e-05" />
+      <edge source="techno" target="techno" id="237" weight="1e-05" />
+      <edge source="techno" target="deep house" id="238" weight="0.0004043671653861706" />
+      <edge source="country" target="country" id="239" weight="0.00646987464617873" />
+      <edge source="country" target="alternative rock" id="240" weight="1e-05" />
+      <edge source="dancehall" target="reggae" id="241" weight="1e-05" />
+      <edge source="dancehall" target="dancehall" id="242" weight="0.008896077638495753" />
+      <edge source="deep house" target="deep house" id="243" weight="1e-05" />
+      <edge source="progressive electro house" target="progressive electro house" id="244" weight="0.0004043671653861706" />
+      <edge source="modern alternative rock" target="modern alternative rock" id="245" weight="0.0008087343307723412" />
+      <edge source="reggae" target="reggae" id="246" weight="0.0040436716538617065" />
+      <edge source="k-pop" target="k-pop" id="247" weight="0.0008087343307723412" />
+    </edges>
+  </graph>
+</gexf>
